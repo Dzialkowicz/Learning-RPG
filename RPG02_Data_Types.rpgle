@@ -1,4 +1,4 @@
- *character length 3 (When writing abc on length 3) dsply = ab
+      *character length 3 (When writing abc on length 3) dsply = ab
      DVariable         S              3a
       *Indicator (Bool)
      DVariable1        S               N
